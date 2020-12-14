@@ -1,0 +1,22 @@
+
+.content_layout {
+  height: 100vh;
+  background: #ffffff;
+}
+
+.header {
+  display: flex;
+  height: 85px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  padding: 10px 20px 0px 20px;
+  height: 79vh;
+  overflow: auto;
+}
+
+.logoheader {
+  width: 60px;
+}
