@@ -6,10 +6,13 @@ Os seguintes desafios foram propostos:
 
 * Usar React JS;
 * Consumir dados de uma API;
-* Página de busca de cadastro
+* Página de busca de cadastro;
 * Página de listagem de cadastrados;
 * Página para criar e editar cadastro;
-* Excluir cadastro.
+* Excluir cadastro;
+* validação de "brute force" com captcha;
+* validação dos campos de entrada Data, o CPF e o CNPJ;
+* Calendário para entrada de data.
 
 Requisitos:
 - git 2.29.2
